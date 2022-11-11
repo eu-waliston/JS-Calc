@@ -1,2 +1,2 @@
 # JS-Calc
-Calculadora feita com javascript 
+Calculadora feita com javascript organizada por módulos 
